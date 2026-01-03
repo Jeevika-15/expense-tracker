@@ -8,4 +8,4 @@ Features:
 # How to Run
 1. Install Python 3.
 2. Download the project files.
-3. Run in terminal.(helloooooooooo)
+3. Run in terminal.
